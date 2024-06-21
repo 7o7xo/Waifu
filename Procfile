@@ -1,1 +1,1 @@
-worker: python3 /Shivu/main.py
+worker: /Shivu/main.py
